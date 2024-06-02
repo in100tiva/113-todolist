@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Tarefas</title>
+    <link rel="stylesheet" href="style/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+</head>
+<body>
+    <div class="container">
+        <aside>
+            <h2>Dias da Semana</h2>
+            <ul id="days">
+                <li data-day="Sunday">Domingo</li>
+                <li data-day="Monday">Segunda-feira</li>
+                <li data-day="Tuesday">Terça-feira</li>
+                <li data-day="Wednesday">Quarta-feira</li>
+                <li data-day="Thursday">Quinta-feira</li>
+                <li data-day="Friday">Sexta-feira</li>
+                <li data-day="Saturday">Sábado</li>
+            </ul>
+        </aside>
+        <main>
+            <h1>Lista de Tarefas</h1>
+            <input type="text" id="taskInput" placeholder="Adicionar nova tarefa...">
+            <button id="addTaskBtn">Adicionar</button>
+            <div id="tasksContainer"></div>
+        </main>
+    </div>
+    <script src="scripts/main.js"></script>
+</body>
+</html>
