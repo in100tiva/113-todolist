@@ -66,4 +66,4 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para 
 
 ---
 
-Feito com ❤️ por [Seu Nome](https://github.com/seu-usuario)
+Feito com ❤️ por [Luan Oliveira dos Santos]([https://github.com/seu-usuario](https://www.linkedin.com/in/luanpdd/))
